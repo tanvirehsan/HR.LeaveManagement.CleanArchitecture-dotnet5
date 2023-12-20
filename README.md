@@ -1,3 +1,5 @@
+
+# [Clean architecture full course youtube link](https://www.youtube.com/watch?v=gGa7SLk1-0Q)
 <div class="text-center alert alert-dark">
     <h1 class="display-4">Leave Management System - SOLID and Clean Architecture</h1>
     <h5>Educational Project to demonstrate Clean Architecture in .NET Core. <br>Full Course: 
